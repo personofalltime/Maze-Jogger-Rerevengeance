@@ -1,2 +1,2 @@
 # Maze-Jogger-Rerevengeance
-A game made for the SBIG jam 2022
+A game made un Unreal Engine 5 for the SBIG jam 2022
